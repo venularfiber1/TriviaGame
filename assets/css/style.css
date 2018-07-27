@@ -1,0 +1,21 @@
+body{
+	background-image:url(https://images.alphacoders.com/307/thumb-1920-307471.jpg);
+	text-align: center;
+}
+.jumbotron{
+    background-color:silver;
+}
+
+.last-seconds{
+  color: darkred;
+}
+.option{
+  margin: 15px;
+}
+.container{
+    color:blue;
+}
+audio{
+    
+    padding-top: 500px;
+}
